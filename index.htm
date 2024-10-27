@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Log in</title>
+  <link rel='stylesheet' href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css'>
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Poppins&display=swap'>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .error-message {
+      color: red;
+      margin-top: 10px;
+      display: none; /* Masqué par défaut */
+    }
+  </style>
+</head>
+<body>
+<div class="wrapper">
+  <div class="login_box">
+    <div class="login-header">
+      <span>Login</span>
+    </div>
+
+    <div class="input_box">
+      <input type="text" id="user" class="input-field" required>
+      <label for="user" class="label">Username</label>
+      <i class="bx bx-user icon"></i>
+    </div>
+
+    <div class="input_box">
+      <input type="password" id="pass" class="input-field" required>
+      <label for="pass" class="label">Password</label>
+      <i class="bx bx-lock-alt icon"></i>
+    </div>
+
+    <div class="input_box">
+      <input type="submit" class="input-submit" value="Login" onclick="validateLogin()">
+    </div>
+
+    <div class="error-message" id="error-message">Nom d'utilisateur ou mot de passe incorrect</div>
+  </div>
+</div>
+
+<script>
+  async function validateLogin() {
+    const username = document.getElementById('user').value;
+    const password = document.getElementById('pass').value;
+    const errorMessage = document.getElementById('error-message');
+
+    const response = await fetch('3.json');
+    const credentials = await response.json();
+
+    if (username === credentials.a && password === credentials.b) {
+      window.location.href = credentials.url;
+    } else {
+      errorMessage.style.display = 'block'; // Afficher le message d'erreur
+    }
+  }
+</script>
+</body>
+</html>

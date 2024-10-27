@@ -1,0 +1,446 @@
+[
+    {
+        "teamA": "Chelsea",
+        "teamB": "Brighton et Hove Albion",
+        "scoreA": 6,
+        "scoreB": 5
+    },
+    {
+        "teamA": "West Ham United",
+        "teamB": "Manchester City",
+        "scoreA": 5,
+        "scoreB": 10
+    },
+    {
+        "teamA": "Brentford",
+        "teamB": "Fulham",
+        "scoreA": 8,
+        "scoreB": 10
+    },
+    {
+        "teamA": "Manchester United",
+        "teamB": "Everton",
+        "scoreA": 8,
+        "scoreB": 4
+    },
+    {
+        "teamA": "Newcastle United",
+        "teamB": "Wolverhampton Wanderers",
+        "scoreA": 6,
+        "scoreB": 7
+    },
+    {
+        "teamA": "Nottingham Forest",
+        "teamB": "Aston Villa",
+        "scoreA": 7,
+        "scoreB": 7
+    },
+    {
+        "teamA": "Luton Town",
+        "teamB": "Tottenham Hotspur",
+        "scoreA": 2,
+        "scoreB": 10
+    },
+    {
+        "teamA": "Crystal Palace",
+        "teamB": "Liverpool",
+        "scoreA": 6,
+        "scoreB": 7
+    },
+    {
+        "teamA": "Sheffield United",
+        "teamB": "Bournemouth",
+        "scoreA": 4,
+        "scoreB": 7
+    },
+    {
+        "teamA": "Bournemouth",
+        "teamB": "Crystal Palace",
+        "scoreA": 6,
+        "scoreB": 4
+    },
+    {
+        "teamA": "Liverpool",
+        "teamB": "Luton Town",
+        "scoreA": 5,
+        "scoreB": 6
+    },
+    {
+        "teamA": "Tottenham Hotspur",
+        "teamB": "Nottingham Forest",
+        "scoreA": 10,
+        "scoreB": 7
+    },
+    {
+        "teamA": "Aston Villa",
+        "teamB": "Newcastle United",
+        "scoreA": 8,
+        "scoreB": 5
+    },
+    {
+        "teamA": "Wolverhampton Wanderers",
+        "teamB": "Manchester United",
+        "scoreA": 4,
+        "scoreB": 5
+    },
+    {
+        "teamA": "Everton",
+        "teamB": "Brentford",
+        "scoreA": 4,
+        "scoreB": 9
+    },
+    {
+        "teamA": "Fulham",
+        "teamB": "West Ham United",
+        "scoreA": 10,
+        "scoreB": 5
+    },
+    {
+        "teamA": "Manchester City",
+        "teamB": "Chelsea",
+        "scoreA": 8,
+        "scoreB": 6
+    },
+    {
+        "teamA": "Brighton et Hove Albion",
+        "teamB": "Arsenal",
+        "scoreA": 9,
+        "scoreB": 6
+    },
+    {
+        "teamA": "Burnley",
+        "teamB": "Sheffield United",
+        "scoreA": 4,
+        "scoreB": 8
+    },
+    {
+        "teamA": "Burnley",
+        "teamB": "Brighton et Hove Albion",
+        "scoreA": 5,
+        "scoreB": 10
+    },
+    {
+        "teamA": "Arsenal",
+        "teamB": "Manchester City",
+        "scoreA": 9,
+        "scoreB": 7
+    },
+    {
+        "teamA": "Chelsea",
+        "teamB": "Fulham",
+        "scoreA": 8,
+        "scoreB": 58
+    },
+    {
+        "teamA": "West Ham United",
+        "teamB": "Everton",
+        "scoreA": 8,
+        "scoreB": 8
+    },
+    {
+        "teamA": "Brentford",
+        "teamB": "Wolverhampton Wanderers",
+        "scoreA": 5,
+        "scoreB": 6
+    },
+    {
+        "teamA": "Manchester United",
+        "teamB": "Aston Villa",
+        "scoreA": 5,
+        "scoreB": 6
+    },
+    {
+        "teamA": "Newcastle United",
+        "teamB": "Tottenham Hotspur",
+        "scoreA": 7,
+        "scoreB": 4
+    },
+    {
+        "teamA": "Nottingham Forest",
+        "teamB": "Liverpool",
+        "scoreA": 6,
+        "scoreB": 8
+    },
+    {
+        "teamA": "Luton Town",
+        "teamB": "Bournemouth",
+        "scoreA": 6,
+        "scoreB": 3
+    },
+    {
+        "teamA": "Sheffield United",
+        "teamB": "Crystal Palace",
+        "scoreA": 12,
+        "scoreB": 6
+    },
+    {
+        "teamA": "Crystal Palace",
+        "teamB": "Luton Town",
+        "scoreA": 7,
+        "scoreB": 8
+    },
+    {
+        "teamA": "Bournemouth",
+        "teamB": "Nottingham Forest",
+        "scoreA": 4,
+        "scoreB": 8
+    },
+    {
+        "teamA": "Liverpool",
+        "teamB": "Newcastle United",
+        "scoreA": 7,
+        "scoreB": 5
+    },
+    {
+        "teamA": "Tottenham Hotspur",
+        "teamB": "Manchester United",
+        "scoreA": 5,
+        "scoreB": 15
+    },
+    {
+        "teamA": "Aston Villa",
+        "teamB": "Brentford",
+        "scoreA": 9,
+        "scoreB": 5
+    },
+    {
+        "teamA": "Wolverhampton Wanderers",
+        "teamB": "West Ham United",
+        "scoreA": 5,
+        "scoreB": 7
+    },
+    {
+        "teamA": "Everton",
+        "teamB": "Chelsea",
+        "scoreA": 8,
+        "scoreB": 7
+    },
+    {
+        "teamA": "Manchester City",
+        "teamB": "Burnley",
+        "scoreA": 8,
+        "scoreB": 7
+    },
+    {
+        "teamA": "Brighton et Hove Albion",
+        "teamB": "Sheffield United",
+        "scoreA": 7,
+        "scoreB": 6
+    },
+    {
+        "teamA": "Brighton et Hove Albion",
+        "teamB": "Manchester City",
+        "scoreA": 6,
+        "scoreB": 7
+    },
+    {
+        "teamA": "Burnley",
+        "teamB": "Fulham",
+        "scoreA": 10,
+        "scoreB": 8
+    },
+    {
+        "teamA": "Arsenal",
+        "teamB": "Everton",
+        "scoreA": 5,
+        "scoreB": 7
+    },
+    {
+        "teamA": "Chelsea",
+        "teamB": "Wolverhampton Wanderers",
+        "scoreA": 4,
+        "scoreB": 10
+    },
+    {
+        "teamA": "West Ham United",
+        "teamB": "Aston Villa",
+        "scoreA": 6,
+        "scoreB": 5
+    },
+    {
+        "teamA": "Brentford",
+        "teamB": "Tottenham Hotspur",
+        "scoreA": 9,
+        "scoreB": 7
+    },
+    {
+        "teamA": "Manchester United",
+        "teamB": "Liverpool",
+        "scoreA": 5,
+        "scoreB": 8
+    },
+    {
+        "teamA": "Newcastle",
+        "teamB": "Bournemouth",
+        "scoreA": 10,
+        "scoreB": 5
+    },
+    {
+        "teamA": "Nottingham Forest",
+        "teamB": "Crystal Palace",
+        "scoreA": 8,
+        "scoreB": 11
+    },
+    {
+        "teamA": "Sheffield United",
+        "teamB": "Luton Town",
+        "scoreA": 8,
+        "scoreB": 3
+    },
+    {
+        "teamA": "Luton Town",
+        "teamB": "Nottingham Forest",
+        "scoreA": 5,
+        "scoreB": 6
+    },
+    {
+        "teamA": "Crystal Palace",
+        "teamB": "Newcastle United",
+        "scoreA": 5,
+        "scoreB": 8
+    },
+    {
+        "teamA": "Bournemouth",
+        "teamB": "Manchester United",
+        "scoreA": 7,
+        "scoreB": 12
+    },
+    {
+        "teamA": "Liverpool",
+        "teamB": "Brentford",
+        "scoreA": 7,
+        "scoreB": 4
+    },
+    {
+        "teamA": "Tottenham Hotspur",
+        "teamB": "West Ham United",
+        "scoreA": 8,
+        "scoreB": 5
+    },
+    {
+        "teamA": "Aston Villa",
+        "teamB": "Chelsea",
+        "scoreA": 10,
+        "scoreB": 7
+    },
+    {
+        "teamA": "Wolverhampton Wanderers",
+        "teamB": "Arsenal",
+        "scoreA": 5,
+        "scoreB": 8
+    },
+    {
+        "teamA": "Everton",
+        "teamB": "Burnley",
+        "scoreA": 5,
+        "scoreB": 3
+    },
+    {
+        "teamA": "Fulham",
+        "teamB": "Brighton et Hove Albion",
+        "scoreA": 9,
+        "scoreB": 10
+    },
+    {
+        "teamA": "Manchester City",
+        "teamB": "Sheffield United",
+        "scoreA": 8,
+        "scoreB": 8
+    },
+    {
+        "teamA": "Manchester City",
+        "teamB": "Fulham",
+        "scoreA": 7,
+        "scoreB": 3
+    },
+    {
+        "teamA": "Burnley",
+        "teamB": "Wolverhampton Wanderers",
+        "scoreA": 7,
+        "scoreB": 8
+    },
+    {
+        "teamA": "Chelsea",
+        "teamB": "Tottenham Hotspur",
+        "scoreA": 6,
+        "scoreB": 7
+    },
+    {
+        "teamA": "West Ham United",
+        "teamB": "Liverpool",
+        "scoreA": 9,
+        "scoreB": 3
+    },
+    {
+        "teamA": "Brentford",
+        "teamB": "Bournemouth",
+        "scoreA": 9,
+        "scoreB": 8
+    },
+    {
+        "teamA": "Manchester United",
+        "teamB": "Crystal Palace",
+        "scoreA": 4,
+        "scoreB": 10
+    },
+    {
+        "teamA": "Newcastle United",
+        "teamB": "Luton Town",
+        "scoreA": 10,
+        "scoreB": 8
+    },
+    {
+        "teamA": "Sheffield United",
+        "teamB": "Nottingham Forest",
+        "scoreA": 9,
+        "scoreB": 6
+    },
+    {
+        "teamA": "Newcastle",
+        "teamB": "Nottingham Forest",
+        "scoreA": 5,
+        "scoreB": 12
+    },
+    {
+        "teamA": "Manchester United",
+        "teamB": "Luton Town",
+        "scoreA": 11,
+        "scoreB": 2
+    },
+    {
+        "teamA": "Brentford",
+        "teamB": "Crystal Palace",
+        "scoreA": 11,
+        "scoreB": 4
+    },
+    {
+        "teamA": "West Ham United",
+        "teamB": "Bournemouth",
+        "scoreA": 8,
+        "scoreB": 6
+    },
+    {
+        "teamA": "Chelsea",
+        "teamB": "Liverpool",
+        "scoreA": 8,
+        "scoreB": 10
+    },
+    {
+        "teamA": "Arsenal",
+        "teamB": "Tottenham Hotspur",
+        "scoreA": 7,
+        "scoreB": 4
+    },
+    {
+        "teamA": "Burnley",
+        "teamB": "Aston Villa",
+        "scoreA": 7,
+        "scoreB": 8
+    },
+    {
+        "teamA": "Brighton et Hove Albion",
+        "teamB": "Wolverhampton Wanderers",
+        "scoreA": 9,
+        "scoreB": 9
+    }
+]

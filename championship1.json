@@ -1,0 +1,15 @@
+[
+    { "teamA": "Barcelone", "teamB": "Bayern Munich", "scoreA": 1, "scoreB": 2 },
+    { "teamA": "Milan", "teamB": "PSV Eindhoven", "scoreA": 0, "scoreB": 2 },
+    { "teamA": "Manchester City", "teamB": "Napoli", "scoreA": 0, "scoreB": 4 },
+    { "teamA": "Internazionale", "teamB": "Milan", "scoreA": 2, "scoreB": 3 },
+    { "teamA": "Borussia Dortmund", "teamB": "Galatasaray", "scoreA": 3, "scoreB": 1 },
+    { "teamA": "Paris Saint-Germain", "teamB": "Arsenal", "scoreA": 6, "scoreB": 1 },
+    { "teamA": "Juventus", "teamB": "Club Atlético de Madrid", "scoreA": 4, "scoreB": 4 },
+    { "teamA": "Porto", "teamB": "Liverpool", "scoreA": 2, "scoreB": 6 },
+    { "teamA": "Manchester City", "teamB": "Real Madrid", "scoreA": 4, "scoreB": 2 },
+    { "teamA": "Manchester United", "teamB": "Real Madrid", "scoreA": 2, "scoreB": 1 },
+    { "teamA": "Tottenham Hotspur", "teamB": "Bayer 04", "scoreA": 1, "scoreB": 2 },
+    { "teamA": "Newcastle United", "teamB": "Liverpool", "scoreA": 2, "scoreB": 4 },
+    { "teamA": "Arsenal", "teamB": "Barcelone", "scoreA": 2, "scoreB": 1 }
+]
